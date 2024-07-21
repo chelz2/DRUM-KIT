@@ -1,1 +1,1 @@
-# drum-kit-webdesign-with-functionality-
+DRUM KIT frontend app
